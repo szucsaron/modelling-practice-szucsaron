@@ -1,0 +1,7 @@
+#!/bin/bash
+# This file compiles and runs the program
+
+# Compile
+javac -d target/classes --source-path src src/com/codecool/Main.java
+# Run
+java -cp target/classes com.codecool.main.Main

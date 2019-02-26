@@ -1,0 +1,2 @@
+#!/bin/bash
+javac --source-path src/com/codecool/*.java -d target/; java -cp target/ com.codecool.main.Main

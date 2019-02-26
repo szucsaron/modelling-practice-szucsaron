@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<placedata>
+    <places>
+        <place id="0" name="Main Hall" type="Room" capacity="10"/>
+        <place id="2" name="Ballroom" type="Room" capacity="10"/>
+        <place id="3" name="Cell" type="Room" capacity="10"/>
+        <place id="4" name="Kitchen" type="Room" capacity="10"/>
+        <place id="5" name="Storage" type="Room" capacity="10"/>
+        <place id="6" name="Goatroom" type="Room" capacity="10"/>
+        <place id="7" name="Teleport Chamber" type="Room" capacity="10"/>
+        <place id="8" name="Storage room" type="Room" capacity="10"/>
+        <place id="9" name="West Corridor" type="Room" capacity="10"/>
+        <place id="10" name="Living Room" type="Room" capacity="10"/>
+        <place id="11" name="Bedroom #1" type="Room" capacity="10"/>
+        <place id="12" name="Bedroom #2" type="Room" capacity="10"/>
+        <place id="13" name="Bedroom #3" type="Room" capacity="10"/>
+        <place id="14" name="Bedroom #4" type="Room" capacity="10"/>
+        <place id="15" name="Bedroom #5" type="Room" capacity="10"/>
+        <place id="16" name="Very Hidden Corridor of Utmost Secrecy" type="Corridor" capacity="10"/>
+        <place id="17" name="East Corridor" type="Corridor" capacity="10"/>
+        <place id="18" name="Burglers' Charity Area" type="Room" capacity="10"/>
+        <place id="19" name="Courtyard" type="Garden" capacity="10"/>
+        <place id="1" name="Toilet" type="Room" capacity="10"/>
+    </places>
+    <links>
+        <link id1="10" id2="1"/>
+        <link id1="10" id2="2"/>
+        <link id1="10" id2="6"/>
+        <link id1="10" id2="5"/>
+        <link id1="10" id2="0"/>
+        <link id1="2" id2="3"/>
+        <link id1="2" id2="4"/>
+        <link id1="2" id2="0"/>
+        <link id1="4" id2="5"/>
+        <link id1="6" id2="8"/>
+        <link id1="9" id2="0"/>
+        <link id1="9" id2="11"/>
+        <link id1="9" id2="12"/>
+        <link id1="9" id2="13"/>
+        <link id1="9" id2="14"/>
+        <link id1="16" id2="14"/>
+        <link id1="9" id2="15"/>
+        <link id1="7" id2="16"/>
+        <link id1="0" id2="17"/>
+        <link id1="18" id2="17"/>
+        <link id1="19" id2="0"/>
+        <link id1="19" id2="17"/>
+        <link id1="19" id2="9"/>
+        <link id1="7" id2="1"/>
+
+    </links>
+</placedata>

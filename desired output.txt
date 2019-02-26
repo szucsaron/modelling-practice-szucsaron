@@ -1,0 +1,6 @@
+livingRoom
+	toilet
+	ballroom
+		cell
+		kitchen
+			bedroom
